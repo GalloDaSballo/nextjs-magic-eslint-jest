@@ -1,4 +1,7 @@
-# NextJS Typescript Boilerplate
+## Template: NextJS Typescript Boilerplate
+
+"name": "@erikdstock"
+"url": "https://github.com/erikdstock"
 
 Bootstrap a developer-friendly NextJS app configured with:
 
