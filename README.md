@@ -16,7 +16,25 @@ Test the code that matters, when it matters
 
 
 # Instructions
-Clone 
+
+## Clone 
+
+```bash
+git clone https://github.com/GalloDaSballo/nextjs-magic-eslint-jest
+```
+
+## Install
+
+```bash
+yarn
+```
+
+## Start
+
+```bash
+yarn dev
+```
+
 
 This template was built on top of Template: NextJS Typescript Boilerplate
 
