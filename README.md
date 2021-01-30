@@ -1,3 +1,25 @@
+# nextjs-magic-eslint-jest
+If there's one template you should use in 2021
+This is the one
+
+## NextJS
+Hands down the simplest and easiest framework to build production ready React Apps
+
+## Magic
+Easy access to login, authentication, session management, ethereum wallets
+
+## Eslint
+Stop wasting time formatting code, there's a tool for that
+
+## Jest
+Test the code that matters, when it matters
+
+
+# Instructions
+Clone 
+
+This template was built on top of Template: NextJS Typescript Boilerplate
+
 ## Template: NextJS Typescript Boilerplate
 
 "name": "@erikdstock"
@@ -10,21 +32,3 @@ Bootstrap a developer-friendly NextJS app configured with:
 -   Formatting with [Prettier](https://prettier.io/)
 -   Linting, typechecking and formatting on by default using [`husky`](https://github.com/typicode/husky) for commit hooks
 -   Testing with [Jest](https://jestjs.io/) and [`react-testing-library`](https://testing-library.com/docs/react-testing-library/intro)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-typescript-eslint-jest&project-name=with-typescript-eslint-jest&repository-name=with-typescript-eslint-jest)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-typescript-eslint-jest with-typescript-eslint-jest-app
-# or
-yarn create next-app --example with-typescript-eslint-jest with-typescript-eslint-jest-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
